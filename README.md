@@ -50,13 +50,13 @@
 
 | # | Sertifika | Kurum / Platform | Tarih |
 | :---: | :--- | :--- | :--- |
-| 🔴 | **Yapay Zekâ Uzmanlık Programı Temel Eğitimi** | T.C. Sanayi ve Teknoloji Bakanlığı & Milli Teknoloji Akademisi | Şubat 2026 |
-| 🔵 | **Google Cybersecurity Professional Certificate** | Google / Coursera | Şubat 2026 |
-| 🔵 | **The Bits and Bytes of Computer Networking** | Google / Coursera | Şubat 2026 |
-| 🔵 | **Operating Systems and You: Becoming a Power User** | Google / Coursera | Şubat 2026 |
-| 🟣 | **IBM Generative AI for Cybersecurity Professionals** | IBM / Coursera | Mart 2026 |
-| 🟢 | **Python for Cybersecurity Specialization** | Infosec / Coursera | Mart 2026 |
-| 🟣 | **IBM Ethical Hacking with Open Source Tools** | IBM / Coursera | Nisan 2026 |
+| 🔴 | **Yapay Zekâ Uzmanlık Programı Temel Eğitimi** | <sub>T.C. Sanayi ve Teknoloji Bakanlığı</sub> | <sub>Şubat 2026</sub> |
+| 🔵 | **Google Cybersecurity Professional Certificate** | <sub>Google / Coursera</sub> | <sub>Şubat 2026</sub> |
+| 🔵 | **The Bits and Bytes of Computer Networking** | <sub>Google / Coursera</sub> | <sub>Şubat 2026</sub> |
+| 🔵 | **Operating Systems and You: Becoming a Power User** | <sub>Google / Coursera</sub> | <sub>Şubat 2026</sub> |
+| 🟣 | **IBM Generative AI for Cybersecurity Professionals** | <sub>IBM / Coursera</sub> | <sub>Mart 2026</sub> |
+| 🟢 | **Python for Cybersecurity Specialization** | <sub>Infosec / Coursera</sub> | <sub>Mart 2026</sub> |
+| 🟣 | **IBM Ethical Hacking with Open Source Tools** | <sub>IBM / Coursera</sub> | <sub>Nisan 2026</sub> |
 
 <hr>
 
@@ -66,10 +66,11 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/fetih-çakmak" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:cakmakfetih72@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
