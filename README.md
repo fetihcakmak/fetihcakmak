@@ -5,14 +5,16 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=hacker&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br>
 
-### 🚀 About Me
+### 🚀 Hakkımda | About Me
 
-3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems (like **Nexora**) to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 🛡️💻
+**🇹🇷 TR:** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 🛡️💻
+
+**🇬🇧 EN:** 3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 🛡️💻
 
 <hr>
 
