@@ -1,14 +1,16 @@
-<div align="left">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007A33,00CED1&height=150&section=header" width="100%" />
+
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33&center=true&vCenter=true&width=800&height=100&lines=Fetih+ÇAKMAK;Cybersecurity" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   🎓 <b>Computer Engineering Student</b> @ Selçuk University · 3rd Year 📍 Konya, Türkiye | ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
 </div>
 
-<hr>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies" />
-</div>
-
-<br>
+---
 
 ### 🚀 Hakkımda | About Me
 
@@ -16,7 +18,15 @@
 
 **🇬🇧 EN:** 3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 🛡️💻
 
-<hr>
+---
+
+### 🛡️ Mevcut Odak & Projeler
+
+* 🔭 **Şu an üzerinde çalıştığım:** **GökTürk** - Yapay zeka destekli, MITRE ATT&CK haritalamasına sahip gelişmiş Honeypot sistemi.
+* 🌱 **Derinleştiğim Alanlar:** Sızma testleri, ağ savunması, tehdit istihbaratı ve güvenlik otomasyonları.
+* ⚙️ **Pratik Deneyim:** Sanallaştırma ortamları (VirtualBox), veri madenciliği (Orange) ve ağ analiz araçları (Nmap, Scapy).
+
+---
 
 ### 🧰 Technology Stack & Security Tools
 
@@ -36,15 +46,26 @@
 ![Network Security](https://img.shields.io/badge/IDS%2FIPS-000000?style=for-the-badge&logo=fortinet&logoColor=white)
 ![IBM Servers](https://img.shields.io/badge/IBM_System_x-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-<hr>
+---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=flat&no-frame=true&no-bg=true&margin-w=15&title=007A33" alt="Trophies" />
 </div>
 
-<hr>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&theme=transparent&title_color=007A33&text_color=777777&icon_color=00CED1&border_color=007A33&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&theme=transparent&title_color=007A33&text_color=777777&icon_color=00CED1&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&bg_color=transparent&color=007A33&line=00CED1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
 
 ### 🏅 Certifications & Achievements
 
@@ -58,7 +79,7 @@
 | 🟢 | **Python for Cybersecurity Specialization** | <sub>Infosec / Coursera</sub> | <sub>Mart 2026</sub> |
 | 🟣 | **IBM Ethical Hacking with Open Source Tools** | <sub>IBM / Coursera</sub> | <sub>Nisan 2026</sub> |
 
-<hr>
+---
 
 ### 💡 Interests
 
@@ -68,10 +89,14 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/fetih-çakmak" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-007A33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:cakmakfetih72@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-00CED1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00CED1,007A33&height=100&section=footer" width="100%" />
 </div>
