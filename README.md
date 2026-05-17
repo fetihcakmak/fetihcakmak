@@ -51,15 +51,13 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&no-frame=true&no-bg=true&margin-w=15&title_color=007A33&icon_color=1BC4C4&text_color=555555&bg_color=00000000" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&bg_color=00000000&title_color=007A33&text_color=555555&icon_color=1BC4C4&hide_border=true&cache_seconds=86400" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&bg_color=00000000&title_color=007A33&text_color=555555&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=fetihcakmak&theme=transparent&hide_border=true&ring=007A33&fire=1BC4C4&currStreakLabel=007A33&sideLabels=007A33&dates=777777&stroke=1BC4C4" width="55%" />
 </div>
 
 <div align="center">
