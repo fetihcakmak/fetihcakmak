@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BE7FF,50:1BC4C4,100:00A896&height=160&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BE7FF,40:1BC4C4,70:10A880,100:007A33&height=160&section=header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33&center=true&vCenter=true&width=800&height=100&lines=Fetih+%C3%87AKMAK;Cybersecurity" alt="Typing SVG" />
@@ -57,9 +57,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&theme=transparent&title_color=007A33&text_color=777777&icon_color=1BC4C4&border_color=007A33&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&bg_color=00000000&title_color=007A33&text_color=555555&icon_color=1BC4C4&hide_border=true&cache_seconds=86400" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&theme=transparent&title_color=007A33&text_color=777777&icon_color=1BC4C4&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&bg_color=00000000&title_color=007A33&text_color=555555&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
 <div align="center">
@@ -99,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A896,50:1BC4C4,100:1BE7FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007A33,30:10A880,60:1BC4C4,100:1BE7FF&height=120&section=footer" width="100%" />
 </div>
