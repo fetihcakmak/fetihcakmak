@@ -51,14 +51,10 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fetihcakmak&theme=transparent&hide_border=true&ring=007A33&fire=1BC4C4&currStreakLabel=007A33&sideLabels=007A33&dates=777777&stroke=1BC4C4" width="55%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&bg_color=transparent&color=007A33&line=1BC4C4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
