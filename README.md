@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&no-frame=true&no-bg=true&margin-w=15&title_color=007A33&icon_color=1BC4C4&text_color=555555&bg_color=00000000" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br>
