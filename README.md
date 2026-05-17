@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007A33,00CED1&height=150&section=header" width="100%" />
 
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33&center=true&vCenter=true&width=800&height=100&lines=Fetih+ÇAKMAK;Cybersecurity" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33;00CED1&center=true&vCenter=true&width=800&height=100&lines=Fetih+ÇAKMAK;Cybersecurity" alt="Typing SVG" />
   </a>
 </div>
 
