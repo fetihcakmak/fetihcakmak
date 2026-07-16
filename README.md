@@ -48,18 +48,25 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&langs_count=6&theme=tokyonight&v=1" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&icon_color=39d353&rank_icon=percentile" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e" />
+
+</div>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&bg_color=0d1117&color=39d353&line=39d353&point=00ff41&area=true&area_color=39d353&hide_border=true" />
+
+</div>
 
 ---
 
