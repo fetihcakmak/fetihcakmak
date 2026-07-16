@@ -26,11 +26,11 @@
 
 ### 🛡️ Mevcut Odak & Projeler
 
-* ✅ **Tamamlandı — GökTürk:** Yapay zeka destekli, MITRE ATT&CK haritalamasına sahip gelişmiş Honeypot sistemi.
-* ✅ **Tamamlandı — Otonom Tehdit Avı:** Otonom tespit ve müdahale odaklı güvenlik sistemi. <!-- İstersen bu satırı kendi proje adın/açıklamanla güncelle -->
-* 🔭 **Şu an üzerinde çalıştığım:** Yeni nesil güvenlik projelerine geçtim — [yeni proje adların buraya].
-* 🌱 **Derinleştiğim Alanlar:** Sızma testleri, ağ savunması, tehdit istihbaratı ve güvenlik otomasyonları.
-* ⚙️ **Pratik Deneyim:** Sanallaştırma ortamları (VirtualBox), veri madenciliği (Orange) ve ağ analiz araçları (Nmap, Scapy).
+* 🔭 **Şu an geliştirdiğim — Göktürk Deception Mesh:** Dağıtık aldatma ağı (Distributed Deception Mesh). Go monorepo, NATS mesajlaşma, PostgreSQL ve *sıfır yanlış-pozitif* mimarisi üzerine kurulu credential-canary tuzak sistemi. Air-gapped SOC dağıtımı için tasarlanıyor.
+* 🎯 **Uzun vadeli hedef — GÖKKALKAN:** Agentic AI Runtime Security — otonom AI ajanlarını çalışma anında koruyan güvenlik platformu.
+* 📡 **Aktif çalıştığım alan:** Cisco Packet Tracer ile ağ temelleri (VLAN segmentasyonu, ACL, SPAN/port mirroring) → sonraki adım GNS3/EVE-NG + Kali.
+* ✅ **Tamamlandı — GÖKTÜRK SOC Honeypot:** YZ destekli, MITRE ATT&CK haritalı honeypot & tehdit istihbarat sistemi (bitirme projesi).
+* 🌱 **Derinleştiğim Alanlar:** Aldatma teknolojisi (deception), tehdit istihbaratı, sızma testleri ve güvenlik otomasyonları.
 
 ---
 
@@ -58,21 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetihcakmak&theme=github_dark" width="100%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetihcakmak&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetihcakmak&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fetihcakmak&theme=github_dark&utcOffset=3" />
 
 </div>
 
