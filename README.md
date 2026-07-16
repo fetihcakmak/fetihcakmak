@@ -110,9 +110,14 @@
 ---
 
 <div align="center">
-💡 Interests
 
-Network Security · Threat Intelligence · Ethical Hacking · AI in Cybersecurity · Embedded Systems (PIC)
+### 💡 Interests
+
+![Network Security](https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge&logo=cloudflare&logoColor=10A880)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0d1117?style=for-the-badge&logo=virustotal&logoColor=1BC4C4)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39d353)
+![AI in Cybersecurity](https://img.shields.io/badge/AI_in_Cybersecurity-0d1117?style=for-the-badge&logo=openai&logoColor=1BE7FF)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems_(PIC)-0d1117?style=for-the-badge&logo=arduino&logoColor=007A33)
 
 </div>
 <br>
