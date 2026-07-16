@@ -10,6 +10,7 @@
   🎓 <b>Computer Engineering Student</b> @ Selçuk University · 3rd Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
 </div>
 
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Deception_Tech_%26_Threat_Intel-10A880?style=flat-square&labelColor=0d1117" alt="focus" />
   &nbsp;
@@ -22,9 +23,9 @@
 
 ### 🚀 Hakkımda | About Me
 
-**🇹🇷 TR:** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 🛡️💻
+**🇹🇷 :** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 💻
 
-**🇬🇧 EN:** 3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 🛡️💻
+**🇬🇧 :** 3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 💻
 
 ---
 
