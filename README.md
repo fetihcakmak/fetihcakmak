@@ -48,17 +48,28 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fetihcakmak&theme=matrix&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</p>
 
+---
 
+### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&bg_color=transparent&color=007A33&line=1BC4C4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fetihcakmak&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fetihcakmak/fetihcakmak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fetihcakmak/fetihcakmak/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fetihcakmak/fetihcakmak/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
