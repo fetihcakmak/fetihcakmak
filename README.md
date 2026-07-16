@@ -11,7 +11,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-Yeni_nesil_g%C3%BCvenlik_projeleri_geli%C5%9Ftiriliyor-1BC4C4?style=flat-square&labelColor=0d1117" alt="status" />
+  <img src="https://img.shields.io/badge/Focus-Deception_Tech_%26_Threat_Intel-10A880?style=flat-square&labelColor=0d1117" alt="focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Building-G%C3%B6kt%C3%BCrk_Deception_Mesh-1BC4C4?style=flat-square&labelColor=0d1117" alt="building" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK_Aligned-052FAD?style=flat-square&labelColor=0d1117" alt="mitre" />
 </div>
 
 ---
@@ -30,6 +34,7 @@
 * 🎯 **Uzun vadeli hedef — GÖKKALKAN:** Agentic AI Runtime Security — otonom AI ajanlarını çalışma anında koruyan güvenlik platformu.
 * 📡 **Aktif çalıştığım alan:** Cisco Packet Tracer ile ağ temelleri (VLAN segmentasyonu, ACL, SPAN/port mirroring) → sonraki adım GNS3/EVE-NG + Kali.
 * ✅ **Tamamlandı — GÖKTÜRK SOC Honeypot:** YZ destekli, MITRE ATT&CK haritalı honeypot & tehdit istihbarat sistemi (bitirme projesi).
+* ✅ **Tamamlandı — Otonom Araç (AV) Güvenlik Test Aracı:** ROS2/CARLA simülasyonu üzerinde otonom araç saldırı yüzeyini haritalayan güvenlik test & raporlama aracı; UN R155/R156 ve ISO/SAE 21434 taksonomisine bağlı.
 * 🌱 **Derinleştiğim Alanlar:** Aldatma teknolojisi (deception), tehdit istihbaratı, sızma testleri ve güvenlik otomasyonları.
 
 ---
@@ -58,13 +63,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=fetihcakmak&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<table>
+<tr>
+<td><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" /></td>
+<td><img height="200" src="https://streak-stats.demolab.com?user=fetihcakmak&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" /></td>
+</tr>
+</table>
 
 </div>
 
