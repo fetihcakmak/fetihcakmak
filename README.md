@@ -58,9 +58,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=39d353&text_color=8b949e&icon_color=39d353&rank_icon=percentile" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetihcakmak&theme=github_dark" width="100%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=39d353&text_color=8b949e" />
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetihcakmak&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetihcakmak&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fetihcakmak&theme=github_dark&utcOffset=3" />
 
 </div>
 
@@ -69,20 +81,6 @@
 <img src="https://streak-stats.demolab.com?user=fetihcakmak&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
-
-<!--
-  ═══════════════ ALTERNATİF STATS BLOĞU (kurulum gerektirmez) ═══════════════
-  Yukarıdaki kartlar sürekli kırık kalırsa, üstteki 3 <img>'i silip bunu kullan:
-
-  <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetihcakmak&theme=github_dark" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetihcakmak&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetihcakmak&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fetihcakmak&theme=github_dark&utcOffset=3" />
-  </div>
-  ═══════════════════════════════════════════════════════════════════════════
--->
 
 ---
 
