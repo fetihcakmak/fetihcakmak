@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  🎓 <b>Computer Engineering Student</b> @ Selçuk University · 3rd Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
+  🎓 <b>Computer Engineering Student</b> @ Selçuk University · 4rd Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
 </div>
 
 <br>
@@ -23,9 +23,9 @@
 
 ### 🚀 Hakkımda | About Me
 
-**🇹🇷 :** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 💻
+**🇹🇷 :** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 4. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 💻
 
-**🇬🇧 :** 3rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 💻
+**🇬🇧 :** 4rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 💻
 
 ---
 
@@ -109,10 +109,12 @@
 
 ---
 
-### 💡 Interests
+<div align="center">
+💡 Interests
 
-`Network Security` · `Threat Intelligence` · `Ethical Hacking` · `AI in Cybersecurity` · `Embedded Systems (PIC)`
+Network Security · Threat Intelligence · Ethical Hacking · AI in Cybersecurity · Embedded Systems (PIC)
 
+</div>
 <br>
 
 <div align="center">
