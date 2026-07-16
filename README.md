@@ -2,12 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BE7FF,40:1BC4C4,70:10A880,100:007A33&height=160&section=header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33&center=true&vCenter=true&width=800&height=100&lines=Fetih+%C3%87AKMAK;Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1500&color=007A33&center=true&vCenter=true&width=800&height=100&lines=Fetih+%C3%87AKMAK;Cybersecurity;Threat+Hunting+%26+Defense" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   🎓 <b>Computer Engineering Student</b> @ Selçuk University · 3rd Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-Yeni_nesil_g%C3%BCvenlik_projeleri_geli%C5%9Ftiriliyor-1BC4C4?style=flat-square&labelColor=0d1117" alt="status" />
 </div>
 
 ---
@@ -22,7 +26,9 @@
 
 ### 🛡️ Mevcut Odak & Projeler
 
-* 🔭 **Şu an üzerinde çalıştığım:** **GökTürk** - Yapay zeka destekli, MITRE ATT&CK haritalamasına sahip gelişmiş Honeypot sistemi.
+* ✅ **Tamamlandı — GökTürk:** Yapay zeka destekli, MITRE ATT&CK haritalamasına sahip gelişmiş Honeypot sistemi.
+* ✅ **Tamamlandı — Otonom Tehdit Avı:** Otonom tespit ve müdahale odaklı güvenlik sistemi. <!-- İstersen bu satırı kendi proje adın/açıklamanla güncelle -->
+* 🔭 **Şu an üzerinde çalıştığım:** Yeni nesil güvenlik projelerine geçtim — [yeni proje adların buraya].
 * 🌱 **Derinleştiğim Alanlar:** Sızma testleri, ağ savunması, tehdit istihbaratı ve güvenlik otomasyonları.
 * ⚙️ **Pratik Deneyim:** Sanallaştırma ortamları (VirtualBox), veri madenciliği (Orange) ve ağ analiz araçları (Nmap, Scapy).
 
@@ -52,11 +58,31 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&icon_color=39d353&rank_icon=percentile" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetihcakmak&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=39d353&text_color=8b949e&icon_color=39d353&rank_icon=percentile" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihcakmak&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=39d353&text_color=8b949e" />
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=fetihcakmak&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<!--
+  ═══════════════ ALTERNATİF STATS BLOĞU (kurulum gerektirmez) ═══════════════
+  Yukarıdaki kartlar sürekli kırık kalırsa, üstteki 3 <img>'i silip bunu kullan:
+
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetihcakmak&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetihcakmak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetihcakmak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetihcakmak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fetihcakmak&theme=github_dark&utcOffset=3" />
+  </div>
+  ═══════════════════════════════════════════════════════════════════════════
+-->
 
 ---
 
