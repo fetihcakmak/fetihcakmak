@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  🎓 <b>Computer Engineering Student</b> @ Selçuk University · 4rd Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
+  🎓 <b>Computer Engineering Student</b> @ Selçuk University · 4th Year &nbsp;📍 Konya, Türkiye &nbsp;|&nbsp; ✉️ <a href="mailto:cakmakfetih72@gmail.com">cakmakfetih72@gmail.com</a>
 </div>
 
 <br>
@@ -23,9 +23,9 @@
 
 ### 🚀 Hakkımda | About Me
 
-**🇹🇷 :** **Siber Güvenlik, Ağ Savunması ve Tehdit İstihbaratı** alanlarına güçlü bir şekilde odaklanan 4. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım mühendisliği ile sağlam güvenlik mimarilerini birbirine entegre ediyorum. Yapay zeka destekli honeypot sistemleri geliştirmekten IBM System x sunucularını yönetmeye kadar, teknik altyapımı doğrudan uygulamalı güvenlik projelerinde kullanıyorum. 💻
+**🇹🇷 TR:** **Siber Güvenlik, Aldatma Teknolojisi (Deception) ve Tehdit İstihbaratı** alanlarına odaklanan 4. sınıf Bilgisayar Mühendisliği öğrencisiyim. Akademik alıştırmalar yerine kurumsal ölçekte, üretime hazır güvenlik ürünleri geliştiriyorum: MITRE ATT&CK haritalı bir SOC honeypot platformundan, Go ve NATS üzerine kurulu *sıfır yanlış-pozitif* mimarili dağıtık bir aldatma ağına kadar. İlgim tespit mühendisliğinin zor tarafında: gürültü üretmeyen, air-gapped ortamda çalışan ve savunucunun gerçekten güvenebileceği alarmlar tasarlamak. 🛡️
 
-**🇬🇧 :** 4rd-year Computer Engineering student with a strong focus on **Cybersecurity, Network Defense, and Threat Intelligence**. I bridge software engineering with robust security architectures. From developing AI-integrated honeypot systems to managing IBM System x servers, I apply my technical foundation directly to hands-on security projects. 💻
+**🇬🇧 EN:** 4th-year Computer Engineering student focused on **Cybersecurity, Deception Technology, and Threat Intelligence**. Rather than academic exercises, I build production-grade security products — from a MITRE ATT&CK-mapped SOC honeypot platform to a distributed deception mesh built on Go and NATS with a *zero false positive by construction* architecture. My interest lies in the hard part of detection engineering: designing alerts that produce no noise, run air-gapped, and that a defender can actually trust. 🛡️
 
 ---
 
@@ -34,9 +34,22 @@
 * 🔭 **Şu an geliştirdiğim — Göktürk Deception Mesh:** Dağıtık aldatma ağı (Distributed Deception Mesh). Go monorepo, NATS mesajlaşma, PostgreSQL ve *sıfır yanlış-pozitif* mimarisi üzerine kurulu credential-canary tuzak sistemi. Air-gapped SOC dağıtımı için tasarlanıyor.
 * 🎯 **Uzun vadeli hedef — GÖKKALKAN:** Agentic AI Runtime Security — otonom AI ajanlarını çalışma anında koruyan güvenlik platformu.
 * 📡 **Aktif çalıştığım alan:** Cisco Packet Tracer ile ağ temelleri (VLAN segmentasyonu, ACL, SPAN/port mirroring) → sonraki adım GNS3/EVE-NG + Kali.
-* ✅ **Tamamlandı — GÖKTÜRK SOC Honeypot:** YZ destekli, MITRE ATT&CK haritalı honeypot & tehdit istihbarat sistemi (bitirme projesi).
+* ✅ **Tamamlandı — SOC Honeypot Platformu:** YZ destekli, MITRE ATT&CK haritalı honeypot & tehdit istihbarat sistemi; hibrit analiz motoru, Tor/GeoIP zenginleştirme ve otomatik PDF raporlama (bitirme projesi).
 * ✅ **Tamamlandı — Otonom Araç (AV) Güvenlik Test Aracı:** ROS2/CARLA simülasyonu üzerinde otonom araç saldırı yüzeyini haritalayan güvenlik test & raporlama aracı; UN R155/R156 ve ISO/SAE 21434 taksonomisine bağlı.
-* 🌱 **Derinleştiğim Alanlar:** Aldatma teknolojisi (deception), tehdit istihbaratı, sızma testleri ve güvenlik otomasyonları.
+* 🌱 **Derinleştiğim Alanlar:** Aldatma teknolojisi (deception), tespit mühendisliği, tehdit istihbaratı ve güvenlik otomasyonları.
+
+---
+
+### 🏢 GokturkFK
+
+Büyük ölçekli, kurumsal seviyedeki güvenlik ürünlerimi **GokturkFK** organizasyonu altında geliştiriyorum.
+Bu profildeki depolar ise bağımsız araçlar ve güvenlik betiklerinden oluşuyor.
+
+<div align="center">
+  <a href="https://github.com/GokturkFK">
+    <img src="https://img.shields.io/badge/GokturkFK-Flagship_Security_Products-10A880?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GokturkFK" />
+  </a>
+</div>
 
 ---
 
@@ -44,17 +57,19 @@
 
 💻 **Programming & Scripting**
 <br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🔐 **Security & Infrastructure**
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Network Security](https://img.shields.io/badge/IDS%2FIPS-000000?style=for-the-badge&logo=fortinet&logoColor=white)
 ![IBM Servers](https://img.shields.io/badge/IBM_System_x-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
@@ -113,17 +128,18 @@
 
 ### 💡 Interests
 
-![Network Security](https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge&logo=cloudflare&logoColor=10A880)
+![Deception Technology](https://img.shields.io/badge/Deception_Technology-0d1117?style=for-the-badge&logo=hackaday&logoColor=10A880)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0d1117?style=for-the-badge&logo=elastic&logoColor=1BC4C4)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0d1117?style=for-the-badge&logo=virustotal&logoColor=1BC4C4)
+![Network Security](https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge&logo=cloudflare&logoColor=10A880)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39d353)
 ![AI in Cybersecurity](https://img.shields.io/badge/AI_in_Cybersecurity-0d1117?style=for-the-badge&logo=openai&logoColor=1BE7FF)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems_(PIC)-0d1117?style=for-the-badge&logo=arduino&logoColor=007A33)
 
 </div>
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/fetih-çakmak" target="_blank">
+  <a href="https://www.linkedin.com/in/fetih-%C3%A7akmak/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-007A33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
